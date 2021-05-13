@@ -1,2 +1,2 @@
-# c36
-whitehat jr 36
+# synchronousBallMovement
+Ball moving synchronously
